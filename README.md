@@ -2,7 +2,7 @@
 
 ## Grupo
 - Álvaro Nascimento Thees
-- Bruno Edson de Paiva Alves
+- Bruno Edson de Paiva Alves (desenvolvedor durante Modelagem)
 - Felipe Lazzarini Cunha
 - Pedro Detoni Pereira
 
