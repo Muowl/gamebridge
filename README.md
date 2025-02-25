@@ -7,6 +7,9 @@
 - Felipe Lazzarini Cunha
 - Pedro Detoni Pereira
 
+## Slide de Apresentação
+[Slide no Canva](https://www.canva.com/design/DAGBZPboI5Y/nXd-lFSAIyqFO0eIFB01lw/edit?utm_content=DAGBZPboI5Y&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 ## Tecnologias
 - HTML (frontend)
 - CSS (frontend)
